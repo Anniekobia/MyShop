@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyShop</string>
+    <string name="shop_textview">My Kotlin Shop app!</string>
+</resources>
