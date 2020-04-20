@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         val product = Product(1,"Milk",34.0, "Litres",null)
 
 
-        //Multiple Inheritance
+        //Instance of person to showcase multilevel inheritance
         val person = Person("Annie","African")
         person.backbone()
         person.noOfFeet

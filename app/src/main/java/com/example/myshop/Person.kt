@@ -1,5 +1,9 @@
 package com.example.myshop
 
+/**
+ * Person class that inherits from Mammal class
+ */
+
 class Person(val name: String, val race: String) : Mammal(2) {
 
     //for and while loop
